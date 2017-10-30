@@ -7,16 +7,6 @@ With just few lines of code, you can embed our Kore.ai chat widget into your app
 
 Kore.ai SDK for web enables you to talk to Kore.ai bots over a web socket. This repo also comes with the code for sample application that developers can modify according to their Bot configuration.
 
-#Supported Browsers
-1. Google Chrome version 55 & above
-2. Mozilla Firefox version 51 & above
-3. Internet Explorer version 11 & above 
-(Web-sdk may not work properly incase compatability mode is on with IE older versions)
-4. Mac Safari version 9.1 & above
-5. Opera version 48 & above
-
-#Supported JQuery version 2.1.4
-
 # Setting up
 
 ### Prerequisites
@@ -150,12 +140,7 @@ Integration of Kore.ai chat UI into your App
 ```
 
 ###Release History:
-V5.0.0 on 08-SEP-2017 (Added in-line video playback and Carosuel template support)
-V5.0.1 on 15-SEP-2017 (Security issue fixes)
-V5.0.2 on 25-SEP-2017 (UI changes for Quick Replies, List & Carosuel templates)
-V5.0.3 on 26-SEP-2017 (Security issue fix: commented unused code)
-V5.0.4 on 10-OCT-2017 (Bug fix: Button template issue specific to IE browser)
-V5.0.5 on 12-OCT-2017 (Updated Readme document with supported browsers details)
+V5.0.6 on 26-SEP-2017 (commented unused code).
 
 # License
 _Copyright © Kore.ai, Inc. MIT License; see LICENSE for further details._
